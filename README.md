@@ -1,4 +1,4 @@
-# lesson_one
+# lesson_one_cars
 
 The first lesson of Davronbek
 
